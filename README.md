@@ -4,7 +4,5 @@ OAuth 2.0 is an open protocol to allow secure authorization in a simple and stan
 
 Spring Security and Spring Boot have made imposing an internet utility the use of OAuth 2 nice and easy.
 
-In this precis, you’ll construct an OAuth 2 web application and authentication server using Spring Boot and Spring Security.
-
 You can see the whole article originally published at https://ravimengar.blogspot.com 
 
